@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DimitriosTsarouchas
-- 👀 I’m interested in cyber security and web technologies
-- 🌱 I’m currently learning ethical hacking and infosec
-- 💞️ I’m looking to collaborate on information security projects
+- 👀 I’m interested in cybersecurity and web technologies
+- 🌱 I’m currently working as cybersecurity analyst
+- 💞️ I’m looking for collaboration on information security projects
 - 📫 How to reach me dimitristsaroucha@gmail.com
 
 <!---
