@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://linkedin.com/in/dimitrios-tsarouchas/)
 [![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:dimitristsaroucha@gmail.com)
 
-### Security Researcher & Advanced Persistent Threat Analyst
+### Security Researcher
 
 > Unmasking digital threats, one APT group at a time 🕵️‍♂️
 
